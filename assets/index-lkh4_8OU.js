@@ -441,7 +441,7 @@ Error generating stack: `+l.message+`
   color: #333;
   margin-left: 32px;
   text-align: left;
-`,sy="/marry_public/assets/group-CWoy1G09.png",oy="/marry_public/assets/group_bg-DsUoFsdT.jpg",dy=()=>g.jsx(hy,{children:g.jsxs(my,{children:[g.jsxs(gy,{children:[g.jsx("h2",{children:"Dress code"}),g.jsx("span",{children:"/ black tie"})]}),g.jsx(py,{children:g.jsx(vy,{src:sy,alt:"Wedding guests"})}),g.jsx(yy,{children:"Noi am ales tematica neagră pentru nunta noastră, pentru a crea o atmosferă elegantă și stilată. Vom fi recunoscători dacă ne veți susține în această alegere dând preferința aceste game colore și stilistice."})]})}),hy=R.div`
+`,sy="/marry_public/assets/group-CWoy1G09.png",oy="/marry_public/assets/group_bg-DsUoFsdT.jpg",dy=()=>g.jsx(hy,{children:g.jsxs(my,{children:[g.jsxs(gy,{children:[g.jsx("h2",{children:"Dress code"}),g.jsx("span",{children:"/ black tie"})]}),g.jsx(py,{children:g.jsx(vy,{src:sy,alt:"Wedding guests"})}),g.jsx(yy,{children:"Noi am ales tematica neagră pentru nunta noastră, pentru a crea o atmosferă elegantă și stilată. Vom fi recunoscători dacă ne veți susține în această alegere dând preferința acestei game colore și stilistice."})]})}),hy=R.div`
   position: relative;
   min-height: 80vh;
   background: #000;
