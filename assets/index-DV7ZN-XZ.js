@@ -857,7 +857,7 @@ Error generating stack: `+l.message+`
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
-  color: white;
+  color: #fff;
   font-family: "Roboto", sans-serif;
   position: relative;
 `,dp=R.div`
@@ -871,6 +871,9 @@ Error generating stack: `+l.message+`
   text-align: center;
   max-width: 760px;
   z-index: 1;
+  * {
+    color: #fff;
+  }
 `,mp=R.h1`
   font-size: 3rem;
   font-weight: bold;
